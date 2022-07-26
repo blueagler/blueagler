@@ -1,4 +1,4 @@
-<p align="center"><a href="https://blueagle.top"><img width="80%" src="./assets/logo.svg"/></a></p>
+<p align="center"><a href="https://blueagle.top"><img width="20%" src="./assets/logo.svg"/></a></p>
 
 <br />
 
