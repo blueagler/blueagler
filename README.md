@@ -1,8 +1,6 @@
 <p align="center"><a href="https://blueagle.top"><img width="20%" src="./assets/logo.svg"/></a></p>
 
-<br />
-
-An Exceptional Student and Prolific Programmer
+### An Exceptional Student and Prolific Programmer
 
 **About me**
 
