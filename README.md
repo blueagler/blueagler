@@ -16,6 +16,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/blueagler"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/></a></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueagler&langs_count=10&layout=compact&theme=swift&hide_border=true" width="350"/>
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=blueagler&count_private=true&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" width="350"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=blueagler" width="350"/></p>
