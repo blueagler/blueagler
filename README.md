@@ -4,7 +4,7 @@
 
 **About me**
 
-- 👨‍🎓 **G11** student with a high GPA in addition to programming
+- 👨‍🎓 Student with a high GPA in addition to programming
 
 - 🔥 Mastery of multiple programming languages
 
